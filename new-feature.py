@@ -6,4 +6,4 @@ def newFeature(name):
 
 
 if __name__ == "__main__":
-    print(newFeature("Demo"))
+    newFeature("Demo")
